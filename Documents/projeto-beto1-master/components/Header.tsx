@@ -36,7 +36,6 @@ const Header = () => {
     <header className="fixed top-0 left-0 right-0 z-50 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/80 border-b border-border">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-3 items-center py-4">
-          {/* Logo / Nome */}
           <div className="flex items-center">
             <span className="text-foreground font-bold text-lg tracking-wide">Engenheiro Civil</span>
           </div>
