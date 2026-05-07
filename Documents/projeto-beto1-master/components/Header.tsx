@@ -40,7 +40,6 @@ const Header = () => {
             <span className="text-foreground font-bold text-lg tracking-wide">Engenheiro Civil</span>
           </div>
 
-          {/* Desktop Navigation — centralizada */}
           <nav className="hidden md:flex justify-center items-center space-x-8">
             {navItems.map((item) => (
               <button
